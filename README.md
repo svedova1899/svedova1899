@@ -1,7 +1,6 @@
 ## Hi there, I'm Nastya 👋
 
-I'm a front-end developer, I like to study programming from different angles, but for myself I chose the front-end direction. At the moment, my programming knowledge includes: HTML5, CSS3(SCSS), JavaScript, Bootstrap. I am currently learning Python for general development in programming. 
-
+I'm a front-end developer, I like to study programming from different angles, but for myself I chose the front-end direction. At the moment, my programming knowledge includes: HTML5, CSS3/SCSS, JavaScript, Bootstrap, Node.js.
 I'm studing in **GoIteens** school, here I received and continue to receive new and developing knowledge
 
 ### 💻My knowledge
